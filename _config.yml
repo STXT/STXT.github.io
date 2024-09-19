@@ -12,7 +12,7 @@ title                    : "龙娘型机器人STXT的个人网站"
 title_separator          : "-"
 name                     : &name "龙娘型机器人STXT"
 description              : &description "personal description"
-url                      : https://STXT.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://9_19_test.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "龙娘型机器人STXT"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "↑上边是瞎找的图片，以后再弄头像"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
