@@ -12,7 +12,7 @@ title                    : "龙娘型机器人STXT的个人网站"
 title_separator          : "-"
 name                     : &name "龙娘型机器人STXT"
 description              : &description "personal description"
-url                      : https://STXT_TEST.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://9_19_TEST.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
